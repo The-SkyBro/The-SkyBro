@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @The-SkyBro 简称天哥
+- 👋 Hi, I’m human
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ??
